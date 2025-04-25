@@ -1,4 +1,5 @@
 This Python script uses the NLTK library to summarize content from Wikipedia or custom text files.
+
 Features:
 Prompts user for two Wikipedia topics
 Fetches and saves full articles as input_text1.txt and input_text2.txt
